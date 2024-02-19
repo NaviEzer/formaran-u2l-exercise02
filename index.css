@@ -1,0 +1,19 @@
+body {
+    font-family:"Cambria"
+}
+
+div {
+    border:6px solid aquamarine;
+    padding: 30px;
+    margin: 50px
+}
+
+.ftPhoto {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
