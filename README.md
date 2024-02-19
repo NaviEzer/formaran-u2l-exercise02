@@ -1,8 +1,8 @@
 # formaran-u2l-exercise02
 
-Name: Ivan Ezer M. Formaran
-Degree Program: Bachelor of Science in Computer Science
-Website: https://naviezer.github.io/formaran-u2l-exercise02/
+Name: Ivan Ezer M. Formaran  
+Degree Program: Bachelor of Science in Computer Science  
+Website: https://naviezer.github.io/formaran-u2l-exercise02/  
 
 Steps in creating a GitHub Page:
 1. Plan the contents of the page
